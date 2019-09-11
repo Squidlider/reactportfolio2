@@ -85,7 +85,7 @@ export default class Work extends Component {
             >
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/squidlider_logo.png)" }}
+                style={{ backgroundImage: "url(images/Squidlider_logo.png)" }}
               >
                 <div className="desc">
                   <div className="con">
