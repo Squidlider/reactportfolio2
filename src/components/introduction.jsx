@@ -18,9 +18,28 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
+                          <div className="content">
+                            <div className="content__container">
+                              <p className="content__container__text">Hello</p>
+                              <ul className="content__container__list">
+                                <li className="content__container__list__item">
+                                  world !
+                                </li>
+                                <li className="content__container__list__item">
+                                  Employer !
+                                </li>
+                                <li className="content__container__list__item">
+                                  people !
+                                </li>
+                                <li className="content__container__list__item">
+                                  everybody !
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+
                           <h1>
-                            Hello! <br />
-                            And welcome to my portfolio
+                            <br></br>And welcome to my portfolio
                           </h1>
                         </div>
                       </div>
